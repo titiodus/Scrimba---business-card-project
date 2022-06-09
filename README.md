@@ -1,4 +1,16 @@
-# title(){return this.options.title||this.options.name}
+# Business Card Project (Module 2 Frontend Career Path on Scrimba)
+
+This project was achieved using the following:
+
+- [Basic HTML layout]
+- [Including 'alt' attribute to the img tag]
+- [Border and padding]
+- [Flex box with focus on child containers]
+- [Animations]
+- [Shadow effect]
+- [Hover effect]
+
+It was really interesting working on this project as there was a a focus on learning to research as a developer.
 
 ## Supporting Scrimba
 
